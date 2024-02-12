@@ -1,9 +1,9 @@
-![Hi there!](https://user-images.githubusercontent.com/114042039/229384877-f2760b62-2b13-4566-b469-1c9dcfc9ef0c.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Protest+Revolution&size=50&duration=10000&pause=350&color=F7F7F7&background=000000&center=true&vCenter=true&repeat=false&random=false&width=1000&height=200&lines=Hi+There!)](https://git.io/typing-svg)
+
+<img src="https://i.imgur.com/KJvZWlr.gif" align="right" width="300px" />
 
 ## About Me:
-My name is Guilherme. I am currently studying Systems Analysis and Development at college. <br>I am very interested in learning about Machine Learning and Deep Learning, as well as applying them to future projects. 
-
-I'm currently learning Python.
+My name is Guilherme and I'm in the 5th semester of the Systems Analysis and Development<br>course. Currently, I'm focused on deepening my studies in **Data Science**.
 
 ## Skills:
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
@@ -12,11 +12,5 @@ I'm currently learning Python.
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
  
-## Github Stats:
-<div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilherme-PS&show_icons=true&count_private=true&hide_border=false&title_color=8D5BC1&icon_color=8D5BC1&text_color=c9d1d9&bg_color=0d1117"/>
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-PS&layout=compact&hide_border=false&title_color=8D5BC1&text_color=c9d1d9&bg_color=0d1117"/>
-</div>
-
 ## How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-paiva-950034249/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-paiva/) 
