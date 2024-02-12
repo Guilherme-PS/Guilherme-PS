@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/KJvZWlr.gif" align="right" width="300px" />
 
 ## About Me:
-My name is Guilherme and I'm in the 5th semester of the Systems Analysis and Development course.<br>Currently, I'm focused on deepening my studies in **Data Science**.
+My name is Guilherme and I'm in the 5th semester of the Systems Analysis and Development course. Currently, I'm focused on deepening my studies in **Data Science**.
 
 ## Skills:
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
