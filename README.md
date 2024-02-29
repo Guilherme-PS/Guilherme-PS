@@ -2,9 +2,7 @@
 
 ###
 
-<h3 align="left">About Me</h3>
-
-###
+## About Me
 
 <img align="right" height="175" src="https://cdn.discordapp.com/attachments/604129546278535199/1211856231598129153/fdf994e56cc256b34cb26524665a7cec2_preview_rev_1.png?ex=65efb810&is=65dd4310&hm=874ae6813a08e0a56953140c6873953b3c7c0e6c3883ef71ac54fd4935a169a6&"  />
 
@@ -14,9 +12,7 @@
 
 ###
 
-<h3 align="left">Languages and Tools</h3>
-
-###
+### Languages and Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
@@ -36,9 +32,7 @@
 
 ###
 
-<h3 align="left">How to reach me</h3>
-
-###
+### How to reach me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0b66c3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-paiva/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-700037?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-guilherme-ps.vercel.app/)
