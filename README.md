@@ -42,3 +42,4 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0b66c3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-paiva/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-700037?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-guilherme-ps.vercel.app/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-3cbce8?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/guilhermedepaiva)
