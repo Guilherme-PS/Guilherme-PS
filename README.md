@@ -1,16 +1,13 @@
-![Group 2](https://github.com/Guilherme-PS/Guilherme-PS/assets/114042039/2a8b80cb-f59b-4d20-9897-a0f416debb2b)
+<div align="center">
+  <img height="40" src="https://github.com/Guilherme-PS/Guilherme-PS/blob/main/Images/313.png"/>
 
-###
+#
 
-## About Me
+  <img height="75" src="https://github.com/Guilherme-PS/Guilherme-PS/blob/main/Images/Hi.png"/>
 
-<img align="right" height="175" src="https://cdn.discordapp.com/attachments/604129546278535199/1211856231598129153/fdf994e56cc256b34cb26524665a7cec2_preview_rev_1.png?ex=65efb810&is=65dd4310&hm=874ae6813a08e0a56953140c6873953b3c7c0e6c3883ef71ac54fd4935a169a6&"  />
-
-###
-
-<p align="left">My name is Guilherme and I'm in the 5th semester of the Systems Analysis and Development course. Currently, I'm focused on deepening my studies in <b>Data Science</b>.</p>
-
-###
+### I'm Guilherme
+Junior Data Analyst and recent graduate in Systems Analysis and Development, currently exploring the world of <b>Data Science</b>.
+</div>
 
 ### Languages and Tools
 
@@ -32,7 +29,7 @@
 
 ###
 
-### How to reach me
+### My Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0b66c3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-paiva/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-700037?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-guilherme-ps.vercel.app/)
